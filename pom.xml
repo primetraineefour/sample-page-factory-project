@@ -76,6 +76,7 @@
       <version>1.7</version>
     </dependency>
 
+    <!-- Logging infra Log4j -->
     <dependency>
       <groupId>log4j</groupId>
       <artifactId>log4j</artifactId>
