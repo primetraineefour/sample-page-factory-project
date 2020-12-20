@@ -59,8 +59,6 @@ public class Utility extends BasePage {
      */
     public void sendTextToElement(By by, String str) {
         driver.findElement(by).sendKeys(str);
-
-
     }
 
     public void sendTextToElement(WebElement element, String str) {
